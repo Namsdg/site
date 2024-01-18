@@ -26,6 +26,7 @@ country:
   adjective: Australian
 create_goals:
   previous_next_links: false
+  goal_content_heading: ''
   goals: []
 create_indicators:
   previous_next_links: false
@@ -58,6 +59,8 @@ email_contacts:
   questions: test@example.com
   suggestions: test@example.com
   functional: test@example.com
+empty_metadata_placeholder: ''
+empty_metadata_placeholder_sources: ''
 environment: staging
 footer_language_toggle: none
 footer_menu:
@@ -113,6 +116,7 @@ header_language_toggle: dropdown
 hide_empty_metadata: true
 hide_single_series: true
 hide_single_unit: true
+ignored_disaggregations: []
 indicator_config_form:
   enabled: true
   dropdowns: []
@@ -187,10 +191,10 @@ menu:
     dropdown: []
   - path: /faq
     translation_key: menu.faq
-    dropdown: []  
+    dropdown: []
   - path: /about
     translation_key: menu.about
-    dropdown: []    
+    dropdown: []
 metadata_edit_url: metadata
 metadata_tabs:
   - scope: national
@@ -202,12 +206,22 @@ metadata_tabs:
   - scope: sources
     title: indicator.sources
     description: ''
+meta_tags: []
 news:
   category_links: false
 progress_status:
   status_heading: ''
+  status_help: ''
   status_types: []
-remote_data_prefix: 'https://open-sdg.org/open-sdg-data-starter'
+progressive_web_app:
+  enabled: false
+  name: ''
+  short_name: ''
+  precaching: false
+proxy_indicators:
+  label: ''
+  description: ''
+remote_data_prefix: 'https://namsdg.github.io/data/'
 reporting_status:
   title: status.reporting_status
   description: status.description
@@ -222,8 +236,8 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://github.com/open-sdg/open-sdg-data-starter'
-repository_url_site: ''
+repository_url_data: 'https://github.com/Namsdg/data'
+repository_url_site: 'https://github.com/Namsdg/site'
 search_index_boost: []
 search_index_extra_fields: []
 site_config_form:
