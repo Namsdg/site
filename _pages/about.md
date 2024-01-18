@@ -9,6 +9,7 @@ layout: page
 - [Need more info?](#need-more-info)
 - [Feedback](#feedback)
 
+This site is the data dashboard assessing the progressing of achieving Sustainable Development Goals for the state of Baja California, Mexico
 
 The [Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/) (SDGs) are a universal call to action to:
 
