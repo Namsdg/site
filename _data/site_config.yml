@@ -22,7 +22,7 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Baja California, Mexico
+  name: Baja California
   adjective: Mexican
 create_goals:
   previous_next_links: false
