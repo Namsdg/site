@@ -21,6 +21,13 @@ The [Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sus
 
 The 17 Goals were adopted by all UN Member States in 2015, as part of the [2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld).
 
+This SDG Dashboard focuses on three goals:
+  * SDG 1: No Poverty
+  
+  * SDG 8: Decent Work and Economic Growth 
+  
+  * SDG 9: Industry, Innovation, and Infrastructure 
+
 ## About this site
 This site is based on the open source [Open SDG](https://open-sdg.org/) platform.
     
