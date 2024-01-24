@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Baja California, Mexico
+  adjective: Mexican
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
