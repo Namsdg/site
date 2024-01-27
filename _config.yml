@@ -37,3 +37,5 @@ exclude:
   - README.md
   - LICENSE
 
+custom_js:
+  - /assets/js/custom.js
